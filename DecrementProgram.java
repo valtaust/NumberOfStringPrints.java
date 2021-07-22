@@ -1,7 +1,7 @@
 package ie.gmit.dip;
 
 //Program here decrements as expected
-//could also change i to ++ and sysout i instead.
+//could also change i to ++ and sysout i instead to increment i++ inside line 20.
 
 import java.util.Scanner;
 
